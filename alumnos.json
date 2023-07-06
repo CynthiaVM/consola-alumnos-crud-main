@@ -22,5 +22,13 @@
     "telefono": "90312322",
     "fechaIngreso": "05-07-2023",
     "activo": true
+  },
+  {
+    "nombre": "cintia",
+    "apellido": "mouzo",
+    "email": "cynthiamouzo@gmail.com",
+    "telefono": "1564897536",
+    "fechaIngreso": "05-07-2023",
+    "activo": true
   }
 ]
