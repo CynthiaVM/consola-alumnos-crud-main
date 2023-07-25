@@ -30,5 +30,13 @@
     "telefono": "1564897536",
     "fechaIngreso": "05-07-2023",
     "activo": true
+  },
+  {
+    "nombre": "vanesa",
+    "apellido": "suarez",
+    "email": "lma",
+    "telefono": "45687412",
+    "fechaIngreso": "12-07-2023",
+    "activo": true
   }
 ]
