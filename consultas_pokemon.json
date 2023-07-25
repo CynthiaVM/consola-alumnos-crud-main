@@ -1,17 +1,9 @@
 [
   {
-    "name": "magikarp",
+    "name": "pikachu",
     "abilities": [
-      "swift-swim",
-      "rattled"
-    ]
-  },
-  {
-    "name": "seadra",
-    "abilities": [
-      "poison-point",
-      "sniper",
-      "damp"
+      "static",
+      "lightning-rod"
     ]
   }
 ]
