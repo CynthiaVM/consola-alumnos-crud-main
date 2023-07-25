@@ -1,0 +1,17 @@
+[
+  {
+    "name": "magikarp",
+    "abilities": [
+      "swift-swim",
+      "rattled"
+    ]
+  },
+  {
+    "name": "seadra",
+    "abilities": [
+      "poison-point",
+      "sniper",
+      "damp"
+    ]
+  }
+]
